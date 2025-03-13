@@ -1,0 +1,13 @@
+Numpy:---
+Array:
+    Initialize Array to Row/Column with zero or same number
+    Create numpy array using range & random
+    Check Array Shape & Update
+    Joining Array - Join two array vertically, horizontally and column wise
+    Present Common & Unique Element between two numpy array
+    Array Save & Load
+
+Array Mathematics:
+    Addition, Multiplication, Subtraction & Division
+    Mean, Median & Standard Division
+
