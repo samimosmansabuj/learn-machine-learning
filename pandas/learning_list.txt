@@ -1,0 +1,12 @@
+Numpy:---
+One Dimension Series:
+    Create a Series for on dimention object
+    Change index numaric to alphabat
+    Create a Series object from a dictionary
+    Change the index positoin
+    Print any index value or sequence from Series
+    Adding, Multiplication a scalar vlue to series elements
+    Adding, Substraction, Multiplication two series object
+
+
+
